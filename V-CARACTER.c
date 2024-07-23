@@ -38,7 +38,7 @@ int main()
 
     do
     {
-        printf("Por favor, ingresa un caracter: ");
+        printf("Por favor, ingresa un caracterrr: ");
         scanf("%c", &caracter); // El espacio antes de %c ignora cualquier espacio en blanco antes del carácter
 
         valido = esCaracterValido(caracter);

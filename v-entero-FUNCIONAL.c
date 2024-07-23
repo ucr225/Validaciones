@@ -15,7 +15,7 @@ int esEntero(char *cadena)
 
     if (longitud == 0 || cadena[0] == '\0')
     {
-        printf("ESTIMADO USUARIO,NO INGRESO NINGUN VALOR! \n");
+        printf("ESTIMADO USUARIO,NO INGRESO NINGUN VALORr! \n");
         fflush(stdin);
         return arbitro = 0;
     }

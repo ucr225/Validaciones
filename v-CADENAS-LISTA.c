@@ -49,7 +49,7 @@ int esCadena(char *cadena)
 int main()
 {
     char cadena[20];
-    printf("holaaa");
+    printf("holaaaa");
     printf("Ingrese una cadena: ");
     fgets(cadena, sizeof(cadena), stdin);
     // cadena[strcspn(cadena, "\n")] = 0; // Eliminar el carácter de nueva línea al final de la cadena

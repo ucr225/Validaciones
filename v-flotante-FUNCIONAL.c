@@ -73,7 +73,7 @@ int main()
         else
         {
             // Si la cadena no es un número flotante válido, imprime un mensaje de error
-            printf("La cadena NO es un número flotante válido.\n");
+            printf("La cadena NO es un número flotante válidooo.\n");
         }
     }
 
