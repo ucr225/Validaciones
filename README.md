@@ -1,0 +1,1 @@
+Este conjunto de archivos .C representa un conjunto de funciones que me permiten validar mis programas para poder validar las entradas de datos dependiendo del tipo de dato que se debe ingresar en ese momento
